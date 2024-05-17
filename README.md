@@ -2,7 +2,7 @@
 
 **Sobre mim**
 
-- Me chamo Jaqueline;
+- Meu nome é Jaqueline;
 - Atualmente estudo no Colégio Estadual Carlos Zewe Coimbra;
 - Scratch é a minha linguagem de programação preferida;
 - Meu idioma é o Português BR;
